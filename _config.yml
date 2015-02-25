@@ -5,9 +5,9 @@
 # baseurl: "" # does not include hostname
 
 #
-title:            Javen Blog 3
+title:            Javen Blog
 description:      Just To Share
-url: http://javen.github.io/JavenBlog/
+url:              http://jingelzfqq.github.io/JavenBlog/
 signoff:          Javen# Your name.
 # disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
 # facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
