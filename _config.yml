@@ -7,11 +7,11 @@
 #
 title:            Javen Blog 3
 description:      Just To Share
-url:              /JavenBlog# Site url.
-# signoff:          Javen# Your name.
-disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
-facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
-google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
+url: http://javen.github.io/JavenBlog/
+signoff:          Javen# Your name.
+# disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
+# facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
+# google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 
 links:
